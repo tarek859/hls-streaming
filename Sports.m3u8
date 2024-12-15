@@ -1,16 +1,18 @@
 #EXTM3U
-#EXT-X-VERSION:3
-#EXT-X-TARGETDURATION:10
-#EXT-X-MEDIA-SEQUENCE:0
+#EXTINF:0,167590.ts
+#EXTVLCOPT:network-caching=1000
+https://opplex.tv:8080/live/791476/29735/167590.ts
 
-#EXTINF:10.0,
-http://opplex.tv:8080/live/791476/29735/167590.ts
+#EXTINF:0,167575.ts
+#EXTVLCOPT:network-caching=1000
+https://opplex.tv:8080/live/791476/29735/167575.ts
 
-#EXTINF:10.0,
-http://opplex.tv:8080/live/791476/29735/167575.ts
+#EXTINF:0,167576.ts
+#EXTVLCOPT:network-caching=1000
+https://opplex.tv:8080/live/791476/29735/167576.ts
 
-#EXTINF:10.0,
-http://opplex.tv:8080/live/791476/29735/167576.ts
+
+
 
 
 
